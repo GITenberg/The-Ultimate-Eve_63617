@@ -1,11 +1,16 @@
 _repo: The-Ultimate-Eve_63617
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63617-h/images/cover.jpg
 creator:
   author:
     agent_name: Effron, H. Sanford
     gutenberg_agent_id: '52523'
     url: http://www.gutenberg.org/2009/agents/52523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63617#The-Ultimate-Eve
 gutenberg_issued: '2020-11-03'
 gutenberg_type: Text
 identifiers:
